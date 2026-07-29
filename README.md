@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This portfolio showcases my projects, technical skills, achievements, and experience as a Computer Science & Engineering student passionate about Full Stack Web Development.
 
-🔗 **Live Portfolio:** https://your-portfolio-link.vercel.app
+🔗 **Live Portfolio:** https://myportfolio-3qy6m2scp-deosale-2004.vercel.app/
 
 ---
 
