@@ -92,19 +92,19 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/*<Nav.Item>
               <Nav.Link
-                href="https://soumyajitblogs.vercel.app/"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Education
+                <ImBlog style={{ marginBottom: "2px" }} /> Achievements
               </Nav.Link>
-            </Nav.Item>
+            </Nav.Item>*/}
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/SakshiDeosale/SakshiDeosale-Portfolio"
+                href="https://github.com/SakshiDeosale/Portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
